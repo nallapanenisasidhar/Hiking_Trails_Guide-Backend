@@ -1,0 +1,54 @@
+{
+    "hiking":[
+        {
+            "hiking_trail_id":1,
+            "hiking_trail_name":"Misty Mountain Loop",
+            "hiking_trail_location":"Blue Ridge Mountains, North Carolina",
+            "hiking_trail_difficulty":"Moderate",
+            "hiking_trail_length":"7.5 miles",
+            "hiking_trail_description":"A scenic loop with breathtaking views of the mountain range, dense forests, and occasional wildlife sightings.",
+            "hiking_trail_rating":4.7,
+            "hiking_trail_image":"https://imgs.search.brave.com/94P-tkrVNl4ZUolfuKBzlptLexAfJ7hVwJsTVl-IYlg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA5LzMxLzc1LzQ4/LzM2MF9GXzkzMTc1/NDgzNV9jSkg4dkh5/aFg0d2s5V3g0MjVY/YThNakthNThNc2NM/OS5qcGc"
+        },
+        {
+            "hiking_trail_id":2,
+            "hiking_trail_name":"Sunset Ridge Trail",
+            "hiking_trail_location":"Yosemite National Park, California",
+            "hiking_trail_difficulty":"Hard",
+            "hiking_trail_length":"12 miles",
+            "hiking_trail_description":"A challenging trail that offers panoramic views of Yosemite Valley, granite cliffs, and cascading waterfalls.",
+            "hiking_trail_rating":4.9,
+            "hiking_trail_image":"https://imgs.search.brave.com/4IS0EF6MPkAdix67UpF_cqdVEePOxAVa1c5IEsxKi7Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuYWxsdHJhaWxz/LmNvbS9leUpsWkds/MGN5STZleUowYjBa/dmNtMWhkQ0k2SW1w/d1pXY2lMQ0p5WlhO/cGVtVWlPbnNpZDJs/a2RHZ2lPakl3TkRn/c0ltaGxhV2RvZENJ/Nk1qQTBPQ3dpWm1s/MElqb2lhVzV6YVdS/bEluMHNJbkp2ZEdG/MFpTSTZiblZzYkN3/aWFuQmxaeUk2ZXlK/MGNtVnNiR2x6VVhW/aGJuUnBjMkYwYVc5/dUlqcDBjblZsTENK/dmRtVnljMmh2YjNS/RVpYSnBibWRwYm1j/aU9uUnlkV1VzSW05/d2RHbHRhWE5sVTJO/aGJuTWlPblJ5ZFdV/c0luRjFZVzUwYVhO/aGRHbHZibFJoWW14/bElqb3pmWDBzSW1K/MVkydGxkQ0k2SW1G/emMyVjBjeTVoYkd4/MGNtRnBiSE11WTI5/dElpd2lhMlY1SWpv/aWRYQnNiMkZrY3k5/d2FHOTBieTlwYldG/blpTOHlPRFV5TlRB/NU9TOW1OV0V4TldV/MFlUWTBZbU0yWW1Z/d05EazRNVGRsT1RO/aE9EUm1ZalJoWmk1/cWNHY2lmUT09"
+        },
+        {
+            "hiking_trail_id":3,
+            "hiking_trail_name":"Riverwalk Path",
+            "hiking_trail_location":"Zion National Park, Utah",
+            "hiking_trail_difficulty":"Easy",
+            "hiking_trail_length":"2 miles",
+            "hiking_trail_description":"A family-friendly, flat trail along the Virgin River with serene water views and sandstone cliffs.",
+            "hiking_trail_rating":4.3,
+            "hiking_trail_image":"https://imgs.search.brave.com/ulxlQOpp9Un6-6tfLGnJ5p256-0HjOWxHUj7j5Xr83k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA5Lzc5LzA0LzMy/LzM2MF9GXzk3OTA0/MzI1MV94Rk1RVTBz/MXphU2lXM3RPU04w/TkNGSGd3WVhIT1FD/TC5qcGc"
+        },
+        {
+            "hiking_trail_id":4,
+            "hiking_trail_name":"Emerald Lake Trail",
+            "hiking_trail_location":"Rocky Mountain National Park, Colorado",
+            "hiking_trail_difficulty":"Moderate",
+            "hiking_trail_length":"3.5 miles",
+            "hiking_trail_description":"A picturesque hike featuring alpine lakes, wildflowers, and a view of the majestic Hallet Peak.",
+            "hiking_trail_rating":4.8,
+            "hiking_trail_image":"https://imgs.search.brave.com/vAdrBEqLZe5jQnR_fBgpGIB1pJIOSI4V0cV-7dkCwDU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuYWxsdHJhaWxz/LmNvbS9leUppZFdO/clpYUWlPaUpoYzNO/bGRITXVZV3hzZEhK/aGFXeHpMbU52YlNJ/c0ltdGxlU0k2SW5W/d2JHOWhaSE12Y0do/dmRHOHZhVzFoWjJV/dk1Ua3pNekkwTkRj/dk5qaGtNamsyT0RW/ak16RXpNMlEzTkRj/MllqVmtZMlEyWXpN/M1pUSTJZbVF1YW5C/bklpd2laV1JwZEhN/aU9uc2lkRzlHYjNK/dFlYUWlPaUpxY0dW/bklpd2ljbVZ6YVhw/bElqcDdJbmRwWkhS/b0lqb3lNRFEwTENK/b1pXbG5hSFFpT2pZ/eU5Dd2labWwwSWpv/aVkyOTJaWElpZlN3/aWNtOTBZWFJsSWpw/dWRXeHNMQ0pxY0dW/bklqcDdJblJ5Wld4/c2FYTlJkV0Z1ZEds/ellYUnBiMjRpT25S/eWRXVXNJbTkyWlhK/emFHOXZkRVJsY21s/dVoybHVaeUk2ZEhK/MVpTd2liM0IwYVcx/cGMyVlRZMkZ1Y3lJ/NmRISjFaU3dpY1hW/aGJuUnBjMkYwYVc5/dVZHRmliR1VpT2pO/OWZYMD0"
+        },
+        {
+            "hiking_trail_id":5,
+            "hiking_trail_name":"Canyon Overlook Trail",
+            "hiking_trail_location":"Grand Canyon National Park, Arizona",
+            "hiking_trail_difficulty":"Hard",
+            "hiking_trail_length":"8 miles",
+            "hiking_trail_description":"A rugged trail that offers sweeping views of the canyon and the Colorado River, ideal for seasoned hikers.",
+            "hiking_trail_rating":4.6,
+            "hiking_trail_image":"https://imgs.search.brave.com/l0s5guc3qIlJxIthOQUI8GLh8KqFqfqqZhEksS1Vrao/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTA0/MTQ0MjI5L3Bob3Rv/L2dyYW5kLWNhbnlv/bi1sYW5kc2NhcGUt/YXQtZHVzay12aWV3/ZWQtZnJvbS1kZXNl/cnQud2VicD9hPTEm/Yj0xJnM9NjEyeDYx/MiZ3PTAmaz0yMCZj/PUt5VXRpdndwQUdB/MXNOeUVULTNXRTdR/dktsMFo3WjdXSWNl/dDlUSEZpcTQ9"
+        }
+    ]
+}

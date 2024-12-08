@@ -1,0 +1,154 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    
+    <title>Portfolio</title>
+</head>
+<body>
+
+
+    <nav id="navbar">
+        <div class="nav-links">
+            <a class="header" href="#profile">Profile</a>
+            <a class="header" href="#Education">Education</a>
+            <a class="header" href="#Projects">Projects</a>
+            <a class="header" href="#Experience">Experience</a>
+            <a class="header" href="#Blogs">Blogs</a>
+            <a class="header" href="#Links">Links</a>
+        </div>
+        <div class="menu-toggle">&#9776;</div> 
+    </nav>
+
+
+
+
+    <section id="profile">
+        <div class="profile-content">
+            <h1>Profile</h1>
+            <p>Sasidhar Nallapaneni</p>
+            <p>Mail: snall36@unh.newhaven.edu</p>
+            <p>ID: 00848828</p>
+            <h4>Always seeking innovative and challenging career in the professionally managed and dynamic organization, which provides the best opportunities for the development and greater responsibilities to contribute towards organization.</h4>
+        </div>
+        <div class="profile-image">
+            <img src="Assets/Education-Logo-Graphics-1-10.jpg" alt="profile_image">
+        </div>
+    </section>
+
+    <section id="Education">
+        <h1>Education</h1>
+        <div class="education-whole">
+            <div class="education-container"> 
+                <div class="education-details">
+                    <h3>Undergraduation</h3>
+                    <ul>
+                        <li>Stream: Computer Science Engineering</li>
+                        <li>Stream Duration: 2019-2023</li>
+                        <li>University: SRM University Ramapuram Campus</li>
+                        <li>Location: Chennai, Tamil Nadu</li>
+                        <li>Country: India</li>
+                    </ul>
+                </div>
+        
+                <div class="education-details">
+                    <h3>Graduation</h3>
+                    <ul>
+                        <li>Stream: Computer Science</li>
+                        <li>Stream Duration: 2023-2025</li>
+                        <li>University: University of New Haven</li>
+                        <li>Location: West Haven, Connecticut</li>
+                        <li>Country: United States of America</li>
+                    </ul>
+                </div>
+            </div>
+    
+            <div class="profile-image">
+                <img src="Assets/Education-Logo-Graphics-1-10.jpg" alt="education_image">
+            </div>
+        </div>
+    </section>
+    
+    
+    <section id="Projects">
+        <h1>Projects</h1>
+    
+        <div class="project-container">
+            <div class="project">
+                <h2>Project 1:</h2>
+                <ul>
+                    <li>Name: Smart System For Accident Prevention Using IoT</li>
+                    <li>Tools Used: MatLab</li>
+                    <li>Language Used: Linux</li>
+                    <li>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                </ul>
+            </div> 
+    
+            <div class="project">
+                <h2>Project 2:</h2>
+                <ul>
+                    <li>Name: Smart Spam Email Analysis Using N-gram Model</li>
+                    <li>Tools Used: AWS</li>
+                    <li>Language Used: Python</li>
+                    <li>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    
+
+    <div id="Experience">
+        <div class="experience-content">
+            <div class="experience-details">
+                <h1>Experiences:</h1>
+                <ul>
+                    <li>Company: Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+                    <li>Domain: Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+                    <li>Technology: Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+                    <li>Location: Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+                    <li>Duration: Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+                    <li>Designation: Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+                </ul>
+            </div>
+            <div class="experience-image">
+                <img src="Assets/work-experience-rubber-stamp-vector-13485336.jpg" alt="Experience Image" id="image">
+            </div>
+        </div>
+    </div>
+    
+    <div class="h500" id="Blogs">
+        <h3>Blogs: </h3>
+        <p>Visit https://github.com</p><hr>
+        <p>https://github.com/jlord/sheetsee.js/issues/26</p>   
+    </div>
+    <footer id="Links" href="Links">
+       <h3>Links</h3>
+        <div id="contactdetails">
+            <a href="https://www.instagram.com/mr_.chowdary___?igsh=OWE1bGlvc2hreTh6&utm_source=qr">Instagram
+                <img src="./Assets/Instagram.jpg" alt="Email" class="contact-icon">
+            </a>
+            <a href="https://www.linkedin.com/in/sasidhar-nallapaneni-3718ba1a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn
+                <img src="./Assets/LinkedIn.jpg" alt="LinkedIn" class="contact-icon">
+            </a>
+            <a href="https://x.com/nallapanenisas1?s=11">Twiiter 
+                <img src="./Assets/Twitter.png" alt="Twitter" class="contact-icon">
+            </a>  
+                              
+        </div>
+    </footer>
+  </div>
+  <script>
+    const toggleButton = document.querySelector('.menu-toggle');
+    const navLinks = document.querySelector('.nav-links');
+  
+    toggleButton.addEventListener('click', () => {
+      navLinks.classList.toggle('active'); 
+    });
+  </script>
+  
+</body>
+</html>
